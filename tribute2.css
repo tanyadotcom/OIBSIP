@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+    justify-content: center;
+    background-image: url('/Users/tanyayadav/Downloads/pexels-pixabay-235985.jpg');
+    color: antiquewhite;
+}
+
+
+.center {
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    width: 30%;
+  }
+
+
+h1{
+    font-size: 3rem;
+    margin-top: 30px;
+    text-align: center;
+    font-family: 'Times New Roman', serif;
+}
+
+
+p{
+    text-align: center;
+    font-family: 'Times New Roman', serif;
+}
+
+
+blockquote{
+    text-align: center;
+    
+	margin: 0 auto;
+	
+	margin-top: 2em;
+	margin-bottom: em;
+	padding: 0;
+	font-style: italic;
+    font-size: 2rem;
+    color: rgb(223, 255, 127);
+}
+
+
+h3{
+    text-align: center;
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+
+
+p2{
+    
+    text-align: center;
+    font-size: 2rem;
+    padding-bottom: 3rem;
+    line-height: 1.4;
+}
